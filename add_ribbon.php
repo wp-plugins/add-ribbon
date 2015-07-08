@@ -2,8 +2,8 @@
 /*
 Plugin Name: Add Ribbon Shortcode
 Plugin URI: http://www.sherkspear.com/portfolio-item/add-ribbon/
-Description: Add ribbons on elements in contents
-Version: 1.0
+Description: Add ribbons on elements in contents.Adds ribbon with labels to your div containers or image using shortcodes. This is the implementation of CSS Portal ribbon generator. You can set the width , colors , backgrounds of ribbons you wanted to show.
+Version: 1.0.1
 Author: Sherwin Calims
 Author URI: http://www.sherkspear.com
 

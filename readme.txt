@@ -4,7 +4,7 @@ Donate link: http://www.sherkspear.com/donate/
 Tags: ribbon, shortcode, ribbon generator, cssportal ribbon
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,8 +17,7 @@ Adds ribbon with labels to your div containers or image using shortcodes. This i
 You can email me directly for any plugin request or personal modification such as styles and templates at <contact@sherkspear.com> or contact me at <http://sherkspear.com/contact>
 
 
-Plugin URI: <http://www.sherkspear.com/portfolio-item/sherk-cptdisplays-wordpress-plugin/>    
-Demo Page: <http://www.sherkspear.com/blog/> *(Random Post and Recent ToDos sidebar added using widgets)*
+Plugin URI: <http://www.sherkspear.com/>
 
 
 == Installation ==
